@@ -106,5 +106,5 @@ The project includes comprehensive visualizations:
 
 ## Acknowledgments
 
-- Dataset source: Mall Customer Segmentation Data
+- Dataset source: Mall Customer Segmentation Data from Kaggle
 - Tools: scikit-learn documentation and clustering algorithms research
