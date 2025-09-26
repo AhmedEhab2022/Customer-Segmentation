@@ -1,4 +1,4 @@
-# Customer Segmentation Analysis Using Machine Learning
+# Customer Segmentation Analysis
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmedEhab2022/Customer-Segmentation/blob/main/Customer_Segmentation.ipynb)
 
