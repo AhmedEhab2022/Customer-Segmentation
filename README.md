@@ -56,6 +56,19 @@ The analysis identifies **5 distinct customer segments**:
 | **Conservative Savers** | High-income, low-spending         | Middle-aged | High         | Very Low       | Investment products              |
 | **Budget-Conscious**    | Low-income, conservative spending | Older       | Low          | Low            | Value & essential products       |
 
+## Requirements
+
+```txt
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+scipy
+jupyter
+```
+
 ## How to Run
 
 ### Option 1: Google Colab (Recommended)
