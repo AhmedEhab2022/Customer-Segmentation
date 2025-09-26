@@ -65,10 +65,11 @@ The analysis identifies **5 distinct customer segments**:
 ## Project Structure
 
 ```
-customer-segmentation-analysis/
+customer-segmentation/
 ├── Customer_Segmentation.ipynb   # Main analysis notebook
 ├── Mall_Customers.csv            # Customer dataset
 ├── README.md                     # Project documentation
+├── LICENSE                       # License information
 ```
 
 ## Key Visualizations
