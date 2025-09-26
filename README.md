@@ -1,5 +1,7 @@
 # Customer Segmentation Analysis Using Machine Learning
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmedEhab2022/Customer-Segmentation/blob/main/Customer_Segmentation.ipynb)
+
 A comprehensive data science project that performs customer segmentation analysis on mall customer data using multiple clustering algorithms. This project helps businesses understand their customer base and develop targeted marketing strategies by identifying distinct customer groups based on purchasing behavior and demographics.
 
 ## Project Overview
@@ -54,6 +56,22 @@ The analysis identifies **5 distinct customer segments**:
 | **Conservative Savers** | High-income, low-spending         | Middle-aged | High         | Very Low       | Investment products              |
 | **Budget-Conscious**    | Low-income, conservative spending | Older       | Low          | Low            | Value & essential products       |
 
+## How to Run
+
+### Option 1: Google Colab (Recommended)
+
+1. Click the "Open in Colab" badge above
+2. Upload the dataset to your Google Drive in the appropriate folder
+3. Run all cells in sequence
+
+### Option 2: Local Setup
+
+1. Clone this repository
+2. Install dependencies: `pip install -r requirements.txt`
+3. Open `Customer_Segmentation.ipynb` in Jupyter
+4. Update the data path to point to your local dataset
+5. Run all cells
+
 ## Technologies Used
 
 - **Python Libraries**: pandas, numpy, matplotlib, seaborn, plotly
@@ -70,6 +88,7 @@ customer-segmentation/
 ├── Mall_Customers.csv            # Customer dataset
 ├── README.md                     # Project documentation
 ├── LICENSE                       # License information
+├── requirements.txt              # Python dependencies
 ```
 
 ## Key Visualizations
@@ -105,7 +124,10 @@ The project includes comprehensive visualizations:
 4. **Balanced customers** form the stable mainstream market segment
 5. **Budget-conscious** customers prioritize value and essential purchases
 
-## Acknowledgments
+## License
 
-- Dataset source: Mall Customer Segmentation Data from Kaggle
-- Tools: scikit-learn documentation and clustering algorithms research
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Data Source
+
+Dataset: [Mall Customer Segmentation Data](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python) from Kaggle
