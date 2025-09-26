@@ -91,7 +91,7 @@ jupyter
 - **Machine Learning**: scikit-learn (KMeans, DBSCAN, StandardScaler)
 - **Statistical Analysis**: scipy (hierarchical clustering)
 - **Evaluation Metrics**: Silhouette analysis for cluster validation
-- **Environment**: Jupyter Notebook
+- **Environment**: Colab
 
 ## Project Structure
 
